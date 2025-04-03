@@ -6,11 +6,11 @@
 		"vercel",
 		"vercel-postgres"
 	],
-	"homepage": "https://github.com/possebon/laravel-vercel-postgres",
+	"homepage": "https://github.com/guilherme-possebon/laravel-vercel-postgres",
 	"license": "MIT",
 	"authors": [
 		{
-			"name": "possebon",
+			"name": "guilherme",
 			"email": "gpossebon67@gmail.com",
 			"role": "Developer"
 		}
